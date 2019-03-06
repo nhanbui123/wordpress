@@ -1,0 +1,580 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: YITH WooCommerce Save For Discounts\n"
+"POT-Creation-Date: 2016-09-05 15:58+0200\n"
+"PO-Revision-Date: 2016-09-05 15:58+0200\n"
+"Last-Translator: \n"
+"Language-Team: Your Inspiration Themes <plugins@yithemes.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../plugin-fw\n"
+
+#: ../class.yith-wc-share-for-discounts.php:179
+msgid "General Settings"
+msgstr "Impostazioni generali"
+
+#: ../class.yith-wc-share-for-discounts.php:183
+msgid "Coupon Settings"
+msgstr "Impostazioni coupon"
+
+#: ../class.yith-wc-share-for-discounts.php:184
+msgid "Sharing Settings"
+msgstr "Impostazioni condivisione"
+
+#: ../class.yith-wc-share-for-discounts.php:186
+#: ../class.yith-wc-share-for-discounts.php:996
+msgid "Premium Version"
+msgstr "Versione premium"
+
+#: ../class.yith-wc-share-for-discounts.php:192
+#: ../class.yith-wc-share-for-discounts.php:193
+msgid "Share For Discounts"
+msgstr "Share For Discounts"
+
+#: ../class.yith-wc-share-for-discounts.php:219
+msgid "You need to add a Facebook App ID"
+msgstr "È necessario aggiungere un App ID Facebook"
+
+#: ../class.yith-wc-share-for-discounts.php:224
+msgid "You need to add a Twitter Consumer Key (API Key)"
+msgstr ""
+
+#: ../class.yith-wc-share-for-discounts.php:230
+msgid "You need to add a Twitter Consumer Secret (API Secret)"
+msgstr ""
+
+#: ../class.yith-wc-share-for-discounts.php:240
+msgid "YITH WooCommerce Share For Discounts"
+msgstr ""
+
+#: ../class.yith-wc-share-for-discounts.php:290
+#: ../class.yith-wc-share-for-discounts.php:394
+msgid "via"
+msgstr ""
+
+#: ../class.yith-wc-share-for-discounts.php:309
+msgid ""
+"You closed the parent window. The authorization process has been suspended."
+msgstr ""
+
+#: ../class.yith-wc-share-for-discounts.php:310
+msgid "The authorization process has failed."
+msgstr ""
+
+#: ../class.yith-wc-share-for-discounts.php:378
+#, php-format
+msgid "Share the product and get 10% discount!"
+msgstr "Condividi il prodotto e ottieni uno sconto del 10%"
+
+#: ../class.yith-wc-share-for-discounts.php:416
+msgid "Thank you for sharing!"
+msgstr "Grazie per aver condiviso!"
+
+#: ../class.yith-wc-share-for-discounts.php:420
+msgid "Your discount has been activated and applied to your shopping cart."
+msgstr "Lo sconto è stato attivato e applicato al tuo carrello."
+
+#: ../class.yith-wc-share-for-discounts.php:620
+msgid "Guest"
+msgstr "Ospite"
+
+#: ../class.yith-wc-share-for-discounts.php:752
+#, php-format
+msgid "10% off for the shared product"
+msgstr "Sconto del 10% per il prodotto condiviso"
+
+#: ../class.yith-wc-share-for-discounts.php:993
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: ../class.yith-wc-share-for-discounts.php:1023
+msgid "Plugin Documentation"
+msgstr "Documentazione plugin"
+
+#: ../class.yith-wc-share-for-discounts.php:1076
+msgid "To use the coupon, you need to add the product to the cart"
+msgstr "Per utilizzare il coupon, devi aggiungere il prodotto al carrello"
+
+#: ../includes/class-ywsfd-ajax.php:184 ../includes/class-ywsfd-ajax.php:224
+msgid "An error occurred"
+msgstr ""
+
+#: ../includes/class-ywsfd-ajax.php:200
+msgid "The message field cannot be empty"
+msgstr ""
+
+#: ../init.php:23
+msgid ""
+"You can't activate the free version of YITH WooCommerce Share For Discounts "
+"while you are using the premium one."
+msgstr ""
+"Non puoi attivare la versione gratuita di YITH WooCommerce Share For "
+"Discounts mentre stai usando la versione premium."
+
+#: ../init.php:31
+msgid ""
+"YITH WooCommerce Share For Discounts is enabled but not effective. It "
+"requires WooCommerce in order to work."
+msgstr ""
+"YITH WooCommerce Share For Discounts è abilitato ma non in funzione. Devi "
+"installare WooCommerce affinché questo possa funzionare correttamente."
+
+#: ../plugin-options/general-options.php:16
+msgid "Email to a friend"
+msgstr "Invia via email a un amico"
+
+#: ../plugin-options/general-options.php:20
+msgid "Enable email sharing"
+msgstr "Attiva condivisione via email"
+
+#: ../plugin-options/general-options.php:34
+msgid "Share For Discounts settings"
+msgstr "Impostazioni Share For Discounts"
+
+#: ../plugin-options/general-options.php:38
+msgid "Enable YITH WooCommerce Share For Discounts"
+msgstr "Attiva YITH WooCommerce Share For Discounts"
+
+#: ../plugin-options/general-options.php:49
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../plugin-options/general-options.php:53
+msgid "Enable Facebook sharing"
+msgstr "Attiva condivisione Facebook"
+
+#: ../plugin-options/general-options.php:60
+msgid "Facebook App ID"
+msgstr "App ID Facebook"
+
+#: ../plugin-options/general-options.php:67
+msgid "Facebook Button Type"
+msgstr "Tipo pulsante Facebook"
+
+#: ../plugin-options/general-options.php:69
+msgid "Select the type of button you want to show for Facebook"
+msgstr "Scegli il tipo di pulsante che vuoi mostrare per Facebook"
+
+#: ../plugin-options/general-options.php:72
+msgid "Like and Share Buttons"
+msgstr "Pulsanti \"Mi piace\" e \"Condividi\""
+
+#: ../plugin-options/general-options.php:73
+msgid "Like Button Only"
+msgstr "Pulsante \"Mi piace\""
+
+#: ../plugin-options/general-options.php:74
+#: ../plugin-options/general-options.php:141
+msgid "Share Button Only"
+msgstr "Pulsante \"Condividi\""
+
+#: ../plugin-options/general-options.php:83
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../plugin-options/general-options.php:87
+msgid "Enable Twitter sharing"
+msgstr "Attiva condivisione Twitter"
+
+#: ../plugin-options/general-options.php:93
+msgid "Twitter username"
+msgstr "Nome utente Twitter"
+
+#: ../plugin-options/general-options.php:95
+msgid ""
+"Set this option if you want to include \"via @YourUsername\" to your tweets"
+msgstr ""
+"Seleziona questa opzione se vuoi includere \"via @IlTuoNomeUtente\" ai tuoi "
+"tweet"
+
+#: ../plugin-options/general-options.php:100
+msgid "Twitter Consumer Key (API Key)"
+msgstr ""
+
+#: ../plugin-options/general-options.php:106
+msgid "Twitter Consumer Secret (API Secret)"
+msgstr ""
+
+#: ../plugin-options/general-options.php:112
+msgid "Callback URL"
+msgstr ""
+
+#: ../plugin-options/general-options.php:114
+msgid ""
+"Copy this text string into the \"Callback URL\" field of your Twitter App"
+msgstr ""
+
+#: ../plugin-options/general-options.php:122
+msgid "Google+"
+msgstr "Google+"
+
+#: ../plugin-options/general-options.php:126
+msgid "Enable Google+ sharing"
+msgstr "Attiva condivisione Google+"
+
+#: ../plugin-options/general-options.php:133
+msgid "Google+ Button Type"
+msgstr "Tipo pulsante Google+"
+
+#: ../plugin-options/general-options.php:135
+msgid "Select the type of button you want to show for Google+."
+msgstr ""
+
+#: ../plugin-options/general-options.php:139
+msgid "+1 and Share Buttons"
+msgstr "Pulsanti \"+1\" e \"Condividi\""
+
+#: ../plugin-options/general-options.php:140
+msgid "+1 Button Only"
+msgstr "Pulsante \"+1\""
+
+#: ../templates/admin/premium.php:256 ../templates/admin/premium.php:385
+#, php-format
+msgid ""
+"Upgrade to %1$spremium version%2$s of %1$sYITH WooCommerce Share for "
+"Discounts%2$s to benefit from all features!"
+msgstr ""
+"Aggiorna alla %1$sversione premium%2$s di %1$sYITH WooCommerce Share for "
+"Discounts%2$s per beneficiare di tutte le caratteristiche!"
+
+#: ../templates/admin/premium.php:259 ../templates/admin/premium.php:388
+msgid "UPGRADE"
+msgstr "AGGIORNA"
+
+#: ../templates/admin/premium.php:260 ../templates/admin/premium.php:389
+msgid "to the premium version"
+msgstr "alla versione premium"
+
+#: ../templates/admin/premium.php:266
+msgid "Premium Features"
+msgstr "Caratteristiche Premium"
+
+#: ../templates/admin/premium.php:269 ../templates/admin/premium.php:274
+msgid "Coupon configuration"
+msgstr "Configurazione coupon"
+
+#: ../templates/admin/premium.php:277
+#, php-format
+msgid ""
+"Create a tailored coupon for who deserves to be rewarded for the sharing of "
+"one of your shop products.Configure the coupon in detail, deciding whether "
+"to set a discount on the %1$scart%2$s or on the %1$ssingle product%2$s, with "
+"a %1$sfixed%2$s or a %1$spercentage%2$s amount. The perfect way to give a "
+"coupon the value you want."
+msgstr ""
+"Crea un coupon su misura per chi merita di essere premiato per la "
+"condivisione di uno dei prodotti del tuo shop. Configura il coupon nei "
+"minimi dettagli, decidendo se impostare uno sconto sul %1$scarrello%2$s o "
+"sul %1$ssingolo prodotto%2$s, di importo %1$sfisso%2$s o %1$spercentuale"
+"%2$s. Il modo perfetto per dare al tuo coupon il valore che ritieni più "
+"opportuno."
+
+#: ../templates/admin/premium.php:287
+msgid "Sharing of a specific URL"
+msgstr "Condivisione di uno specifico URL"
+
+#: ../templates/admin/premium.php:290
+#, php-format
+msgid ""
+"The premium version of the plugin allows you to set the %1$sURL%2$s of a "
+"certain page to make it sharable from users through the sharing buttons "
+"available in your shop pages."
+msgstr ""
+"La versione premium del plugin ti permette di specificare l’%1$sURL%2$s di "
+"una determinata pagina per far sì che questa sia condivisibile dagli utenti "
+"attraverso i pulsanti di condivisione presenti nelle pagine del tuo shop."
+
+#: ../templates/admin/premium.php:293
+#, php-format
+msgid ""
+"A great opportunity to put in the spotlight a page of the shop, or an "
+"%1$sexternal page%2$s that you want to be shared in the most famous social "
+"networks."
+msgstr ""
+"Un’ottima opportunità per dare risalto a una specifica pagina del sito o "
+"magari a una %1$spagina esterna%2$s che ti interessa vedere sempre più "
+"presente tra i social più diffusi."
+
+#: ../templates/admin/premium.php:297
+msgid "Upload by the product"
+msgstr ""
+
+#: ../templates/admin/premium.php:304 ../templates/admin/premium.php:309
+msgid "Email sharing"
+msgstr "Condivisione via email"
+
+#: ../templates/admin/premium.php:312
+#, php-format
+msgid ""
+"Maybe up to now you just have the freedom to share your shop contents "
+"through Facebook, Twitter and Google+ social profiles; but with the premium "
+"version of the plugin users will be able to share one of your products with "
+"friend simply writing their %1$semails%2$s and a small message for them."
+"%3$sA perfect action for all users that use sharing with a scrupulous "
+"attention."
+msgstr ""
+"Se sino a ora hai avuto la possibilità di far condividere i contenuti del "
+"tuo shop attraverso i profili social di Facebook, Twitter e Google+, con la "
+"versione premium del plugin gli utenti potranno condividere uno dei tuoi "
+"prodotti con un amico, specificando %1$sl’email di destinazione%2$s e un "
+"messaggio di accompagnamento. %3$sUn’operazione perfetta per tutti gli "
+"utenti che fanno della loro attività di condivisione un’attività scrupolosa."
+
+#: ../templates/admin/premium.php:322 ../templates/admin/premium.php:336
+msgid "Position"
+msgstr "Posizione"
+
+#: ../templates/admin/premium.php:325
+#, php-format
+msgid ""
+"Object disposition is vital for a site, and this is why the plugin lets you "
+"%1$schange the position of the sharing box%2$s in the product detail page, "
+"in addition to the \"Cart\" and \"Checkout\" pages."
+msgstr ""
+"La disposizione degli elementi all’interno di un sito è fondamentale e per "
+"questo motivo anche il plugin ti mette nelle condizioni di %1$spoter "
+"modificare la posizione del box di condivisione%2$s all’interno della pagina "
+"dettaglio del prodotto, oltre delle pagine “Carrello” e “Checkout”."
+
+#: ../templates/admin/premium.php:329 ../templates/admin/premium.php:341
+msgid "Customizable texts"
+msgstr "Testi personalizzabili"
+
+#: ../templates/admin/premium.php:344
+#, php-format
+msgid ""
+"All messages showed on the screen are %1$seasily editable%2$s from users "
+"with the options of the plugin settings panel. Change the texts as you like, "
+"adding clear and explicative messages."
+msgstr ""
+"Tutti i messaggi mostrati a video sono %1$sfacilmente modificabili%2$s "
+"dall’utente attraverso le opzioni contenuto nel pannello impostazioni del "
+"plugin. Modifica i testi come ritieni opportuno, inserendo messaggi chiari "
+"ed esplicativi."
+
+#: ../templates/admin/premium.php:354
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: ../templates/admin/premium.php:357
+#, php-format
+msgid ""
+"Take advantage of the usefulness of the plugin's shortcode to add easily the "
+"sharing buttons you have configured in any place of the site.%3$sPurchase "
+"the premium version of the plugin to give users the freedom to %1$sshare any "
+"contents of your shop%2$s."
+msgstr ""
+"Sfrutta tutta l’utilità dello shortcode previsto dal plugin per inserire, in "
+"maniera facile e veloce in qualsiasi punto del sito, i pulsanti di "
+"condivisione che hai attivato. %3$sAcquista la versione premium del plugin "
+"per dare agli utenti la possibilità di %1$scondividere qualsiasi contenuto "
+"del tuo shop%2$s."
+
+#: ../templates/admin/premium.php:361
+msgid "Saving path"
+msgstr ""
+
+#: ../templates/admin/premium.php:368 ../templates/admin/premium.php:373
+msgid "Checkout and Cart pages"
+msgstr "Pagine Checkout e Carrello"
+
+#: ../templates/admin/premium.php:376
+#, php-format
+msgid ""
+"Something completely new of the premium version of the %1$sYITH WooCommerce "
+"Share for Discounts%2$s plugin: users can share the \"Checkout\" and \"Cart"
+"\" pages. They will benefit from the coupon too!"
+msgstr ""
+"Novità esclusiva della versione premium del plugin %1$sYITH WooCommerce "
+"Share for Discounts%2$s riguarda la possibilità, per gli utenti, di "
+"condividere le pagine “Checkout” e “Carrello”: anche per loro sarà valido il "
+"coupon che hai configurato."
+
+#: ../templates/frontend/fb-share-btn.php:3
+msgid "Share"
+msgstr ""
+
+#: ../templates/frontend/tw-tweet-btn.php:4
+#: ../templates/frontend/tw-tweet-form.php:14
+msgid "Tweet"
+msgstr ""
+
+#: ../templates/frontend/tw-tweet-form.php:4
+msgid "Your Tweet"
+msgstr ""
+
+#: ../templates/frontend/tw-tweet-form.php:8
+msgid "Remaining characters"
+msgstr ""
+
+#: ../templates/frontend/tw-tweet-form.php:13
+msgid "Cancel"
+msgstr ""
+
+#~ msgid ""
+#~ "Select the type of button you want to show for Google+. Note: because of "
+#~ "a bug unresolved by Google, the \"Share\" button could not generate the "
+#~ "coupon correctly. For more information about the bug, please click here:"
+#~ msgstr ""
+#~ "Scegli il tipo di pulsante che vuoi mostrare per Google+. Attenzione: a "
+#~ "causa di un bug non risolto da parte di Google, il pulsante \"Condividi\" "
+#~ "potrebbe non generare il coupon correttamente. Per maggiori informazioni "
+#~ "sul bug, visita questa pagina:"
+
+#~ msgid "We were unable to process your request, please try again."
+#~ msgstr ""
+#~ "Non è stato possibile soddisfare la tua richiesta, riprova di nuovo."
+
+#~ msgid "Your friend email"
+#~ msgstr "Email di un tuo amico"
+
+#~ msgid "Your email"
+#~ msgstr "La tua email"
+
+#~ msgid "Your message"
+#~ msgstr "Il tuo messaggio"
+
+#~ msgid "is a required field."
+#~ msgstr "è un campo necessario."
+
+#~ msgid "is not a valid email address."
+#~ msgstr "non è un indirizzo email valido."
+
+#~ msgid "%s wants to share something with you on %s site"
+#~ msgstr "%s vuole condividere qualcosa con te sul sito %s"
+
+#~ msgid "There was an error while sending the email, please try again."
+#~ msgstr "Si è verificato un errore durante l'invio dell'email, riprova."
+
+#~ msgid "Coupon settings"
+#~ msgstr "Impostazioni coupon"
+
+#~ msgid "Box title before sharing"
+#~ msgstr "Titolo del box precedente alla condivisione"
+
+#~ msgid "Share and get your discount!"
+#~ msgstr "Condividi e ottieni il tuo sconto!"
+
+#~ msgid "Title showed above the sharing buttons"
+#~ msgstr "Titolo mostrato sopra ai pulsanti di condivisione"
+
+#~ msgid "Box title after sharing"
+#~ msgstr "Titolo del box successivo alla condivisione"
+
+#~ msgid "Title showed after the sharing"
+#~ msgstr "Titolo mostrato dopo la condivisione"
+
+#~ msgid "Message after sharing"
+#~ msgstr "Messaggio successivo alla condivisione"
+
+#~ msgid "Text that replaces the buttons after the sharing"
+#~ msgstr "Testo che sostituisce i pulsanti dopo la condivisione"
+
+#~ msgid "URL to share"
+#~ msgstr "URL da condividere"
+
+#~ msgid "If not specified, it will be used the URL of the page"
+#~ msgstr "Se non specificato, verrà utilizzato l'URL della pagina"
+
+#~ msgid "Show on product page"
+#~ msgstr "Mostra sulla pagina del prodotto"
+
+#~ msgid "Product page position"
+#~ msgstr "Posizione pagina prodotto"
+
+#~ msgid ""
+#~ "The position where the sharing buttons are showed in product detail pages."
+#~ msgstr ""
+#~ "La posizione dove i pulsanti di condivisione sono mostrati nelle pagine "
+#~ "dettaglio dei prodotti."
+
+#~ msgid "Before title"
+#~ msgstr "Prima del titolo"
+
+#~ msgid "After price"
+#~ msgstr "Dopo il prezzo"
+
+#~ msgid "Before \"Add to cart\""
+#~ msgstr "Prima di \"Aggiungi al carrello\""
+
+#~ msgid "Before tabs"
+#~ msgstr "Prima delle tab"
+
+#~ msgid "Between tabs and related products"
+#~ msgstr "Tra le tab e i prodotti correlati"
+
+#~ msgid "After related products"
+#~ msgstr "Dopo i prodotti correlati"
+
+#~ msgid "Show on checkout page"
+#~ msgstr "Mostra nella pagina pagamento"
+
+#~ msgid "Checkout position"
+#~ msgstr "Posizione nella pagina pagamento"
+
+#~ msgid "The position where share buttons are showed in checkout page."
+#~ msgstr ""
+#~ "La posizione dove i pulsanti di condivisione sono mostrati nella pagina "
+#~ "di pagamento."
+
+#~ msgid "Before customer details"
+#~ msgstr "Prima delle informazioni del cliente"
+
+#~ msgid "After customer details"
+#~ msgstr "Dopo  delle informazioni del cliente"
+
+#~ msgid "Show on cart page"
+#~ msgstr "Mostra nella pagina carrello"
+
+#~ msgid "Cart page position"
+#~ msgstr "Posizione nella pagina carrello"
+
+#~ msgid "The position where share buttons are showed in cart page."
+#~ msgstr ""
+#~ "La posizione dove i pulsanti di condivisione sono mostrati nella pagina "
+#~ "carrello."
+
+#~ msgid "Before cart"
+#~ msgstr "Prima del carrello"
+
+#~ msgid "Cart collaterals"
+#~ msgstr "Accanto il carrello"
+
+#~ msgid "After cart"
+#~ msgstr "Dopo il carrello"
+
+#~ msgid "Description"
+#~ msgstr "Descrizione"
+
+#~ msgid "Discount type"
+#~ msgstr "Tipo sconto"
+
+#~ msgid "Coupon amount"
+#~ msgstr "Valore coupon"
+
+#~ msgid "Number of days after which the coupon expires"
+#~ msgstr "Numero di giorni dopo i quali il coupon scade"
+
+#~ msgid "No expiration"
+#~ msgstr "Nessuna scadenza"
+
+#~ msgid "Allow free shipping"
+#~ msgstr "Permetti spedizioni gratuite"
+
+#~ msgid "Send to a friend"
+#~ msgstr "Invia a un amico"
+
+#~ msgid "Message"
+#~ msgstr "Messaggio"
+
+#~ msgid "Send email"
+#~ msgstr "Invia email"
